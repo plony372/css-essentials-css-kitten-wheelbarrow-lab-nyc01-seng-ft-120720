@@ -38,7 +38,7 @@
 img[alt="Kitty 5"]
 /*__write_selector_here__*/ {
   position: absolute;
-  z-index: 8;
+  z-index: 20;
   top: 217px;
   left: 223px;
 }
